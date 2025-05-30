@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Food Application](https://github.com/Sumit-9900/food-app)
 
-- 🌱 I’m currently learning **Flutter Testing**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Flutter, Dart, Firebase**
 
