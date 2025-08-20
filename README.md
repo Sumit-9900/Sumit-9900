@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)](https://github.com/Sumit-9900)
+[![MasterHead](https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png)](https://github.com/Sumit-9900)
 
 <h1 align="center">Hi 👋, I'm Sumit Paul</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
